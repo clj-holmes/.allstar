@@ -1,2 +1,7 @@
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
+  disableRepoOverride: true
+  optInRepos:
+  - clj-holmes
+  - moriarty
+  - clj-holmes-rules
