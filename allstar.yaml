@@ -5,3 +5,6 @@ optConfig:
   - clj-holmes
   - moriarty
   - clj-holmes-rules
+  - shape-shifter
+  - clj-holmes-action
+  - shape-shifter
